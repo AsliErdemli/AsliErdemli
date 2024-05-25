@@ -1,8 +1,8 @@
 # Asli Erdemli
 
-**'PhD Student in Affective Neuroscience and Freelance Data Scientist'**
+**'PhD Candidate in Affective Neuroscience and Freelance Data Scientist'**
 
-I am a Neuroscience PhD Student at the University of Geneva. I do fMRI research on epistemic emotions (i.e. curiosity, interest, boredom, confusion) and use data science to analyze neuroimaging, physiological and behavioral data. I love making sense of data and transforming a csv file of numbers into clear insights. If I was a triangle I would be something like: scientific theory  - stats/coding - confident presentation.
+I am a Neuroscience PhD Candidate at the University of Geneva. I do fMRI research on epistemic emotions (i.e. curiosity, interest, boredom, confusion) and use data science to analyze neuroimaging, physiological and behavioral data. I love making sense of data and transforming a csv file of numbers into clear insights. If I was a triangle I would be something like: scientific theory  - stats/coding - confident presentation.
 Occasionally, I use my data skills on non-academic project as a freelance data scientist. 
 #
 ### Languages and tools
@@ -30,6 +30,7 @@ I conduct neuroimaging research on epistemic emotions: curiosity, interest & bor
 - I use Python & Nilearn for fMRI data. 
 - I use Python & mne for EEG data. 
 - I use Matlab and Psychtoolbox for experiment displays. 
+Find also me on our labpage : https://www.unige.ch/fapse/e3lab/members1/phd-candidates/asli-erdemli/
 
 ### Need to contact me? 
 I am a pretty active responder. You can reach me at aslierdemli@gmail.com. I will read your email, unless you are lost in my spambox. 
