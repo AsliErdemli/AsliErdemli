@@ -25,8 +25,11 @@ Occasionally, I use my data skills on non-academic project as a freelance data s
 - Public speaking
 
 ### My Academic Research
-I conduct neuroimaging research on epistemic emotions: curiosity, interest & boredom. My work aims to determine how they are represented in the healthy adult brain, how they interact with our dopaminergic reward circuit & how they are triggered.
-- I use R and tidyverse to work on behavioral data. I use Python & Nilearn for fMRI data. I use Python & mne for EEG data. I use Matlab and Psychtoolbox for experiment displays. 
+I conduct neuroimaging research on epistemic emotions: curiosity, interest & boredom. My work aims to determine how they are represented in the healthy adult brain, how they interact with our dopaminergic reward circuit & how they are triggered. You can find all of my academic work here: https://orcid.org/0000-0003-4970-4028
+- I use R and tidyverse to work on behavioral data. 
+- I use Python & Nilearn for fMRI data. 
+- I use Python & mne for EEG data. 
+- I use Matlab and Psychtoolbox for experiment displays. 
 
 ### Need to contact me? 
 I am a pretty active responder. You can reach me at aslierdemli@gmail.com. I will read your email, unless you are lost in my spambox. 
