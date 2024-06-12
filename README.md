@@ -8,20 +8,12 @@ Occasionally, I use my data skills on non-academic project as a freelance data s
 ### Languages and tools
 - Python 3 (nilearn, numpy, panda, scikit-learn, matplotlib, seaborn, mne  )
 - R and R studio (tidyverse, ggplot2)
-- MATLAB (SPM )
+- MATLAB (SPM & PsychToolbox)
 - Latex with Overleaf
 - Anaconda 
 - Git and Github 
 - Gorilla and AWS
 - bash 
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
 
 #
 ### What I do
