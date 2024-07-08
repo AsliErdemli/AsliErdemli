@@ -10,7 +10,7 @@ Occasionally, I use my data skills on non-academic project as a freelance data s
 - R and R studio (tidyverse, ggplot2)
 - MATLAB (SPM & PsychToolbox)
 - Latex with Overleaf
-- Anaconda 
+- environment management with Anaconda or miniconda 
 - Git and Github 
 - Gorilla and AWS
 - bash 
@@ -26,15 +26,15 @@ Occasionally, I use my data skills on non-academic project as a freelance data s
 - Public speaking
 #
 ### My Academic Research
-I conduct neuroimaging research on epistemic emotions: curiosity, interest & boredom. My work aims to determine how they are represented in the healthy adult brain, how they interact with our dopaminergic reward circuit & how they are triggered. I previously worked on the link between food consumption and boredom. You can find all of my academic work here: https://orcid.org/0000-0003-4970-4028. 
+I conduct neuroimaging (fMRI) research on epistemic emotions: curiosity, interest & boredom. My work aims to determine how they are represented in the healthy adult brain, how they interact with our dopaminergic reward circuit & how they are triggered. I previously worked on the link between food consumption and boredom. You can find all of my academic work here: https://orcid.org/0000-0003-4970-4028. 
 - I use R and tidyverse to work on behavioral data. 
 - I use Python & Nilearn for fMRI data. 
 - I use Python & mne for EEG data. 
 - I use Matlab and Psychtoolbox for experiment displays. 
 Find also me on our labpage : https://www.unige.ch/fapse/e3lab/members1/phd-candidates/asli-erdemli/
 
-### Need to contact me? 
-I am a pretty active responder. You can reach me at aslierdemli@gmail.com. I will read your email, unless you are lost in my spambox. 
+### How to reach me
+I am a pretty active responder. You can reach me at aslierdemli@gmail.com.
 <!---
 AsliErdemli/AsliErdemli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
