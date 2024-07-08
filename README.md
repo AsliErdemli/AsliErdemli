@@ -11,6 +11,7 @@ Occasionally, I use my data skills on non-academic project as a freelance data s
 ### Languages and tools
 - Python 3 (nilearn, numpy, panda, scikit-learn, matplotlib, seaborn, mne  )
 - R and R studio (tidyverse, ggplot2)
+- Quarto in Visual Studio Code
 - MATLAB (SPM & PsychToolbox)
 - Latex with Overleaf
 - environment management with Anaconda or miniconda 
