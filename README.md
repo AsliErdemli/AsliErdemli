@@ -34,7 +34,8 @@ I conduct neuroimaging (fMRI) research on epistemic emotions: curiosity, interes
 Find also me on our labpage : https://www.unige.ch/fapse/e3lab/members1/phd-candidates/asli-erdemli/
 
 ### How to reach me
-I am a pretty active responder. You can reach me at aslierdemli@gmail.com.
+I am a pretty active responder. You can reach me at aslierdemli@gmail.com. I check my mails daily.
+I am also active on Linkedin. 
 <!---
 AsliErdemli/AsliErdemli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
