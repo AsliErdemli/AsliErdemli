@@ -1,6 +1,6 @@
 # Asli Erdemli
 
-**'Affective Neuroscience \& Freelance Data Scientist'**
+**'Quantitative Researcher & Data Scientist'**
 
 I am a Neuroscience PhD from University of Geneva. I did fMRI research on epistemic emotions (i.e. curiosity, interest, boredom, confusion) and use data science to analyze neuroimaging, physiological and behavioral data. Nowadays, I love making sense of data and transforming a csv file of numbers into clear insights. 
 
